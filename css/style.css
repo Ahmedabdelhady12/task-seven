@@ -1,0 +1,17 @@
+.container{
+    width: 80%;
+}
+.products{
+    text-align: center;
+}
+.products li{
+    width: 25%;
+    list-style: none;
+}
+.div2{
+    float: left;
+    width: 25%;
+}
+.div4,.div5{
+    height: 200px;
+}
